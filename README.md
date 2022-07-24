@@ -7,7 +7,7 @@
 ## ノートの一覧
 
 1. 連続マルチンゲール理論入門`prob3_martingales_2nd.pdf`
-2. セミマルチンゲール理論と確率解析の基礎`prob4_semimartingales.pdf`
+2. セミマルチンゲール理論と確率解析の基礎（作成中）`prob4_semimartingales.pdf`
 3. ランダム測度と半マルチンゲールの特性要素`Random_measure_note.pdf`
 4. 独立増分過程と半マルチンゲール`PII_note.pdf`
 5. Markov過程入門`Markov_note1.pdf`
