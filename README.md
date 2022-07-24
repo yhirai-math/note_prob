@@ -12,8 +12,8 @@
 4. 独立増分過程と半マルチンゲール`PII_note.pdf`
 5. Markov過程入門`Markov_note1.pdf`
 6. Normal Approximations with Malliavin Calculus:  From Stein'sMethod to Universalityの勉強ノート`Nourdin_Peccati_note_2.pdf`
-7. 抽象Wiener空間の基礎事項`Malliavin_note1`
-8. Ornstein--Uhlenbeck半群`Malliavin_note4`
+7. 抽象Wiener空間の基礎事項`Malliavin_note1.pdf`
+8. Ornstein--Uhlenbeck半群`Malliavin_note4.pdf`
 
 ## 各ノートの概要と更新履歴
 
@@ -64,6 +64,7 @@
 - 2019/08/25 付録B.2における誤植をいくつか訂正．（でるたさん指摘してくれてありがとう）  ver.1.2.
 - 2019/11/07 誤植を訂正．ver. 1.3.
 - 2021/07/04 誤植を訂正．用語を少し変更．（英語を和訳した．）ver.1.4.
+- 2022/07/24 ドキュメントクラスとスタイルを変更．間違いを訂正．記号を一部変更． Ver. 1.5.
 
 ### 独立増分過程と半マルチンゲール
 
